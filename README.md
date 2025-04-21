@@ -30,7 +30,7 @@ pip install requests beautifulsoup4 tldextract
 
 1. Запустите скрипт:
    ```
-   python crawler.py
+   python web1_0.py
    ```
 2. Введите URL сайта для сканирования (например: `spbu.ru` или `https://spbu.ru`)
 3. Дождитесь завершения сканирования
